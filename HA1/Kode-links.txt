@@ -1,0 +1,15 @@
+Koden til den abstrakte fortolker ligger tilgængeligt på GitHub og er en "fork" af Futharks hoved-repository:
+
+Link til forgreningen:
+https://github.com/SchnitzelBeef/futhark
+
+Selve koden til den abstrakte fortolker kan findes på:
+https://github.com/SchnitzelBeef/futhark/blob/master/src/Language/Futhark/Deps.hs
+
+Unit-tests kan findes på:
+https://github.com/SchnitzelBeef/futhark/blob/master/unittests/Language/Futhark/DepsTests.hs
+
+Der er også løbende links til koden i selve rapporten.
+
+Koden kan kompileres ved at følge anvisningen på Futharks hjemmeside:
+https://futhark.readthedocs.io/en/stable/installation.html
